@@ -1,0 +1,15 @@
+{
+  "short_name": "Pin Scheduler",
+  "name": "Pinterest Pin Scheduler",
+  "icons": [
+    {
+      "src": "/pinterest.svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#E60023",
+  "background_color": "#ffffff"
+}
